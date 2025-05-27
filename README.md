@@ -21,3 +21,14 @@ Este projeto é um sistema de gerenciamento para uma casa de leilões, desenvolv
 1. Clone este repositório:
    ```bash
    git clone https://github.com/zGeanx/CasaDeLeiloes.git
+
+2. Importe o projeto Java em sua IDE (como NetBeans ou Eclipse).
+
+3. Configure a conexão com o banco de dados MySQL.
+
+4. Importe o banco de dados disponível na pasta /database (se fornecido).
+
+Execute o projeto.
+
+Autor
+Gean Luca
